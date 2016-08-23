@@ -4,7 +4,7 @@
 
     
   <url>
-    <loc>http://zhmy1228.github.io/2016/08/10/Linux%E6%8F%90%E6%9D%83/</loc>
+    <loc>http://passwd.cf/2016/08/10/Linux%E6%8F%90%E6%9D%83/</loc>
     <lastmod>2016-08-18T09:36:06.289Z</lastmod>
     <data>
         <display>
@@ -16,7 +16,7 @@
          
            
              
-              <breadCrumb title="学习" url="http://zhmy1228.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+              <breadCrumb title="学习" url="http://passwd.cf/categories/%E5%AD%A6%E4%B9%A0/"/>
           
         </display>
     </data>
@@ -24,7 +24,7 @@
 
     
   <url>
-    <loc>http://zhmy1228.github.io/2016/08/05/hello-world/</loc>
+    <loc>http://passwd.cf/2016/08/05/hello-world/</loc>
     <lastmod>2016-08-18T03:53:44.153Z</lastmod>
     <data>
         <display>
@@ -36,7 +36,7 @@
          
            
              
-              <breadCrumb title="随笔" url="http://zhmy1228.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+              <breadCrumb title="随笔" url="http://passwd.cf/categories/%E9%9A%8F%E7%AC%94/"/>
           
         </display>
     </data>
@@ -99,7 +99,7 @@
     
     
   <url>
-    <loc>http://zhmy1228.github.io/2015/12/27/Hexo-plug/</loc>
+    <loc>http://passwd.cf/2015/12/27/Hexo-plug/</loc>
     <lastmod>2016-04-16T22:55:24.000Z</lastmod>
     <data>
         <display>
@@ -111,7 +111,7 @@
          
            
              
-              <breadCrumb title="Hexo" url="http://zhmy1228.github.io/categories/Hexo/"/>
+              <breadCrumb title="Hexo" url="http://passwd.cf/categories/Hexo/"/>
           
         </display>
     </data>
@@ -119,49 +119,7 @@
 
     
   <url>
-    <loc>http://zhmy1228.github.io/2015/12/27/Hexo/</loc>
-    <lastmod>2016-04-16T22:55:24.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo的使用介绍</title>
-        <pubTime>2015-12-27T10:29:00.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="Hexo" url="http://zhmy1228.github.io/categories/Hexo/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-    
-    
-  <url>
-    <loc>http://zhmy1228.github.io/2015/12/24/markdown/</loc>
-    <lastmod>2016-04-16T22:55:24.000Z</lastmod>
-    <data>
-        <display>
-        <title>Markdown使用指南</title>
-        <pubTime>2015-12-24T10:29:00.000Z</pubTime>
-        
-        <tag>Markdown</tag>
-         
-         
-           
-             
-              <breadCrumb title="Tool" url="http://zhmy1228.github.io/categories/Tool/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://zhmy1228.github.io/2015/12/27/HexoBug/</loc>
+    <loc>http://passwd.cf/2015/12/27/HexoBug/</loc>
     <lastmod>2016-04-16T22:55:24.000Z</lastmod>
     <data>
         <display>
@@ -173,15 +131,17 @@
          
            
              
-              <breadCrumb title="Hexo" url="http://zhmy1228.github.io/categories/Hexo/"/>
+              <breadCrumb title="Hexo" url="http://passwd.cf/categories/Hexo/"/>
           
         </display>
     </data>
     </url>
 
     
+    
+    
   <url>
-    <loc>http://zhmy1228.github.io/2015/12/27/GitHub+Hexo/</loc>
+    <loc>http://passwd.cf/2015/12/27/GitHub+Hexo/</loc>
     <lastmod>2016-04-16T22:55:24.000Z</lastmod>
     <data>
         <display>
@@ -193,7 +153,7 @@
          
            
              
-              <breadCrumb title="Hexo" url="http://zhmy1228.github.io/categories/Hexo/"/>
+              <breadCrumb title="Hexo" url="http://passwd.cf/categories/Hexo/"/>
           
         </display>
     </data>
@@ -201,19 +161,19 @@
 
     
   <url>
-    <loc>http://zhmy1228.github.io/2015/12/27/Hexo-Theme/</loc>
+    <loc>http://passwd.cf/2015/12/24/markdown/</loc>
     <lastmod>2016-04-16T22:55:24.000Z</lastmod>
     <data>
         <display>
-        <title>Hexo 主题：SPFK</title>
-        <pubTime>2015-12-27T10:29:00.000Z</pubTime>
+        <title>Markdown使用指南</title>
+        <pubTime>2015-12-24T10:29:00.000Z</pubTime>
         
-        <tag>Hexo</tag>
+        <tag>Markdown</tag>
          
          
            
              
-              <breadCrumb title="Hexo" url="http://zhmy1228.github.io/categories/Hexo/"/>
+              <breadCrumb title="Tool" url="http://passwd.cf/categories/Tool/"/>
           
         </display>
     </data>
@@ -221,7 +181,7 @@
 
     
   <url>
-    <loc>http://zhmy1228.github.io/2016/01/19/Git/</loc>
+    <loc>http://passwd.cf/2016/01/19/Git/</loc>
     <lastmod>2016-04-16T22:55:24.000Z</lastmod>
     <data>
         <display>
@@ -233,7 +193,47 @@
          
            
              
-              <breadCrumb title="HTML" url="http://zhmy1228.github.io/categories/HTML/"/>
+              <breadCrumb title="HTML" url="http://passwd.cf/categories/HTML/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://passwd.cf/2015/12/27/Hexo/</loc>
+    <lastmod>2016-04-16T22:55:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo的使用介绍</title>
+        <pubTime>2015-12-27T10:29:00.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo" url="http://passwd.cf/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://passwd.cf/2015/12/27/Hexo-Theme/</loc>
+    <lastmod>2016-04-16T22:55:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo 主题：SPFK</title>
+        <pubTime>2015-12-27T10:29:00.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo" url="http://passwd.cf/categories/Hexo/"/>
           
         </display>
     </data>
