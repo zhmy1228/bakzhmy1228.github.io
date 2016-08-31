@@ -3,20 +3,6 @@
 
 
     
-  <url>
-    <loc>http://passwd.cf/2016/08/31/%E5%BC%A0%E6%98%8E%E6%9C%88/</loc>
-    <lastmod>2016-08-31T07:46:35.757Z</lastmod>
-    <data>
-        <display>
-        <title>个人简历</title>
-        <pubTime>2016-08-31T06:55:36.141Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
     
   <url>
     <loc>http://passwd.cf/2016/08/31/%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/</loc>
@@ -199,26 +185,6 @@
     
     
   <url>
-    <loc>http://passwd.cf/2015/12/27/Hexo-plug/</loc>
-    <lastmod>2016-04-16T22:55:24.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo插件安装</title>
-        <pubTime>2015-12-27T10:29:00.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="Hexo" url="http://passwd.cf/categories/Hexo/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://passwd.cf/2015/12/27/GitHub+Hexo/</loc>
     <lastmod>2016-04-16T22:55:24.000Z</lastmod>
     <data>
@@ -239,6 +205,25 @@
 
     
     
+  <url>
+    <loc>http://passwd.cf/2015/12/27/Hexo-plug/</loc>
+    <lastmod>2016-04-16T22:55:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo插件安装</title>
+        <pubTime>2015-12-27T10:29:00.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo" url="http://passwd.cf/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
     
   <url>
     <loc>http://passwd.cf/2015/12/24/markdown/</loc>
@@ -254,26 +239,6 @@
            
              
               <breadCrumb title="Tool" url="http://passwd.cf/categories/Tool/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://passwd.cf/2015/12/27/Hexo/</loc>
-    <lastmod>2016-04-16T22:55:24.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo的使用介绍</title>
-        <pubTime>2015-12-27T10:29:00.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="Hexo" url="http://passwd.cf/categories/Hexo/"/>
           
         </display>
     </data>
@@ -306,6 +271,26 @@
     <data>
         <display>
         <title>Hexo 主题：SPFK</title>
+        <pubTime>2015-12-27T10:29:00.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo" url="http://passwd.cf/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://passwd.cf/2015/12/27/Hexo/</loc>
+    <lastmod>2016-04-16T22:55:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo的使用介绍</title>
         <pubTime>2015-12-27T10:29:00.000Z</pubTime>
         
         <tag>Hexo</tag>
