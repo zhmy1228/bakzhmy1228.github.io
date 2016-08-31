@@ -198,27 +198,6 @@
     
     
     
-    
-  <url>
-    <loc>http://passwd.cf/2015/12/27/Hexo-Theme/</loc>
-    <lastmod>2016-04-16T22:55:24.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo 主题：SPFK</title>
-        <pubTime>2015-12-27T10:29:00.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="Hexo" url="http://passwd.cf/categories/Hexo/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
   <url>
     <loc>http://passwd.cf/2015/12/27/Hexo-plug/</loc>
     <lastmod>2016-04-16T22:55:24.000Z</lastmod>
@@ -239,7 +218,6 @@
     </url>
 
     
-    
   <url>
     <loc>http://passwd.cf/2015/12/27/GitHub+Hexo/</loc>
     <lastmod>2016-04-16T22:55:24.000Z</lastmod>
@@ -259,6 +237,8 @@
     </data>
     </url>
 
+    
+    
     
   <url>
     <loc>http://passwd.cf/2015/12/24/markdown/</loc>
@@ -301,26 +281,6 @@
 
     
   <url>
-    <loc>http://passwd.cf/2016/01/19/Git/</loc>
-    <lastmod>2016-04-16T22:55:24.000Z</lastmod>
-    <data>
-        <display>
-        <title>Git的使用技巧</title>
-        <pubTime>2016-01-19T06:11:20.000Z</pubTime>
-        
-        <tag>Git</tag>
-         
-         
-           
-             
-              <breadCrumb title="HTML" url="http://passwd.cf/categories/HTML/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://passwd.cf/2015/12/27/HexoBug/</loc>
     <lastmod>2016-04-16T22:55:24.000Z</lastmod>
     <data>
@@ -334,6 +294,46 @@
            
              
               <breadCrumb title="Hexo" url="http://passwd.cf/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://passwd.cf/2015/12/27/Hexo-Theme/</loc>
+    <lastmod>2016-04-16T22:55:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo 主题：SPFK</title>
+        <pubTime>2015-12-27T10:29:00.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo" url="http://passwd.cf/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://passwd.cf/2016/01/19/Git/</loc>
+    <lastmod>2016-04-16T22:55:24.000Z</lastmod>
+    <data>
+        <display>
+        <title>Git的使用技巧</title>
+        <pubTime>2016-01-19T06:11:20.000Z</pubTime>
+        
+        <tag>Git</tag>
+         
+         
+           
+             
+              <breadCrumb title="HTML" url="http://passwd.cf/categories/HTML/"/>
           
         </display>
     </data>
